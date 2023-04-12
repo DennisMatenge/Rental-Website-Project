@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://kit.fontawesome.com/1f9bd53e33.js" crossorigin="anonymous"></script>
+    <script defer type="text/javascript" src="index.js"></script>
+    <title>Rental Houses</title>
+</head>
+<body>
+    <body>
+        <!-- title  -->
+        <h1>Vacant Houses</h1>
+        <hr>
+    
+        <!-- menu  -->
+        <header class="menu">
+            <h2>Houses</h2>
+            <nav>
+                <ul id="menuItems">
+                </ul>
+            </nav>
+        </header>
+    
+        <section class="display-area">
+            <div id="display">
+                <h2 id="name">Drink name</h2>
+                <p class="rating"><i class="fa-solid fa-star"></i><span id="rating"></span></p>
+                <img id="image" src = "./assets/images/image-placeholder.jpg" alt="image goes here">
+                <div class="buttons">
+                    <p class="price">Ksh. <span id="price">price</span></p>
+                <button class="orderBtn" id="orderBtn">Book Space</button>
+    
+                </div>
+                
+                <p><em id="description">About items</em></p>
+            </div>
+    
+            <!--star rating-->
+    
+           
+        <div class="star_rating">
+            <p id="starheading">5 Star Rating</p>
+            <p>Rate our Hpuses & the Services Provided </p>
+            <button class="star">&#9734;</button>
+            <button class="star">&#9734;</button>
+            <button class="star">&#9734;</button>
+            <button class="star">&#9734;</button>
+            <button class="star">&#9734;</button>
+            <p class="currentstarrating"> 0 of 5</p>
+         </div>
+    
+            <!-- reviews  -->
+            <div class="reviews">
+                <h3>Customer reviews</h3>
+                <ul id="reviewList">
+                </ul>
+            </div>
+    
+            <!-- Reviews form  -->
+            <form id="reviewForm">
+                <label for="form">Add review:</label>
+                <textarea id="review"></textarea>
+                <button type="submit" class="btn">Submit</button>
+            </form>
+
+            <footer class="foot">
+                The best housing company that is highly recommended by most tenants
+            </footer>
+        </section>
+
+</body>
+</html>

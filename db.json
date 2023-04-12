@@ -1,0 +1,159 @@
+{
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "BedSitter",
+        "rating": 4,
+        "image": "https://st.hzcdn.com/simgs/pictures/living-rooms/bedsitter-denza-interiors-0719835148-img~ef019e5d09d382cf_9-3107-1-ad05635.jpg",
+        "price": 6000,
+        "location":"Roysambu",
+        "reviews": [
+          "I love the spacing of the house",
+          "Hot shower is available",
+          "The compound around it is awesome especially from behind."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Single Room",
+        "rating": 5,
+        "image": "https://images.unsplash.com/flagged/photo-1556438758-8d49568ce18e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80",
+        "price": 4500,
+        "location": "Near Garden City Mall",
+        "reviews": [
+          "I like this house it is good",
+          "It is located in a good place"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "One Bedroom",
+        "rating": 4,
+        "image": "https://i.pinimg.com/originals/3f/7f/22/3f7f227cc8d3ef8a0990ac9857c01c05.jpg",
+        "price": 15000,
+        "location": "Zimmerman",
+        "reviews": [
+            "I like this house it is good",
+            "The compound around it is awesome especially the front side.",
+            "Hot shower is available"
+         
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Three Bedroom",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUxsr7RV5lbfZsuzIfoXT9x9iDsJGnxIj325n8Iwm0kY5MXL86Z6Hyddr2Hhud3A-CxYc&usqp=CAU",
+        "price": 20000,
+        "location": "Kenyatta Market",
+        "reviews": [
+            "I like this house it is good",
+            "It one of the best house around that place",
+            "It is highly recomended for the people with a big family"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Two Bedroom",
+        "rating": 4.7,
+        "image": "https://cdn.shopify.com/s/files/1/0567/3873/products/OneBedroomHouseDesign-ID11104-Perspective_3.jpg?v=1662962987",
+        "price": 17000,
+        "location": "Kahawa Wendani",
+        "reviews": [
+          "I like this house it is good",
+            "I love the spacing of the house",
+            "It has a precios space and one can even put his office inside this house"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "One Bedroom",
+        "rating": 3,
+        "image": "https://i0.wp.com/muthurwa.com/wp-content/uploads/2021/06/image-31157.jpg?fit=1280%2C1024&ssl=1",
+        "price": 12000,
+        "location": "Githurai.",
+        "reviews": [
+          "Very affordable for the people who have started a family.",
+          "I like this house it is good"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Two Bedroom",
+        "rating": 4,
+        "image": "https://cdn.shopify.com/s/files/1/0567/3873/products/Simplefloorplan1bedroom-ID11101-Perspective_1.jpg?v=1662961095",
+        "price": 15000,
+        "location": "Kahawa Sukari",
+        "reviews": [
+            "I like this house it is good",
+            "It is located in a good place",
+            "I love the spacing of the house"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Five Bedroom ",
+        "rating": 5,
+        "image": "https://cdn.shopify.com/s/files/1/0567/3873/products/LodgeDesignPlan-ID15602-Perspective_1.jpg?v=1663934434",
+        "price": 25000,
+        "location": "Juja",
+        "reviews": [
+          "It has a precious space and one can even put his office inside this house",
+          "It is highly recomended for the people with a big family"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Three Bedroom",
+        "rating": 4,
+        "image": "https://s3-us-west-2.amazonaws.com/prod.monsterhouseplans.com/uploads/images_plans/74/74-841/74-841p2.webp",
+        "price": 23000,
+        "location": "Ruiru",
+        "reviews": ["I like this house it is good",
+             "It one of the best house around that place"]
+      },
+      {
+        "id": 10,
+        "name": "Three Room bungalow",
+        "rating": 5,
+        "image": "https://muthurwa.com/wp-content/uploads/2021/11/image-35270.jpg",
+        "price": 24000,
+        "location": "Kimbo",
+        "reviews": [
+            "I like this house it is good",
+            "It is highly recomended for the people with a big family",
+            "It one of the best house around that place"          
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Five Rooms bungalow",
+        "rating": 5,
+        "image": "https://i0.wp.com/muthurwa.com/wp-content/uploads/2022/03/image-37247.jpg?fit=590%2C472&ssl=1",
+        "price": 24500,
+        "location": "Allsoaps",
+        "reviews": [
+            "I like this house it is good",
+            "It has a precios space and one can even put his office inside this house",
+            "Hot shower is available"
+        
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Single Room",
+        "rating": 4,
+        "image": "https://i.pinimg.com/originals/35/aa/fe/35aafe28cb7d7a7c200b3ac874f94cf9.jpg",
+        "price": 5000,
+        "location": "Kasarani",
+        "reviews": [
+          "It is located in a good place",
+          "I like this house it is good",
+          "I love the spacing of the house"
+        ]
+      }
+      
+      
+
+    ]
+  }
